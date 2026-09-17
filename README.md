@@ -1,3 +1,7 @@
+#[LINK SẢN PHẨM](https://hanari05.github.io/TailwindCSS-ResponsiveDesign-LTWBT1/)
+
+-------------------------------------------------------------------------------------------------------
+
 ## 📝 ĐỀ BÀI
 
 Mở file `index.html`, sử dụng các class Tailwind CSS để tạo một **Khung thông báo / Giới thiệu khóa học** hoàn chỉnh với các yêu cầu giao diện sau:
